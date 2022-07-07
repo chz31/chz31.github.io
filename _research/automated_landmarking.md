@@ -1,6 +1,7 @@
 ---
 title: "Automated Landmarking in SlicerMorph"
 collection: research
+type: "research"
 permalink: /research/automated_landmarking
 venue: "Seattle Children's Research Institute"
 ---
