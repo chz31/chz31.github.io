@@ -249,7 +249,7 @@ defaults:
       share: true
   # _research
   - scope:
-      path: ""
+      path: "research"
       type: "research"
     values:
       layout: single
