@@ -250,7 +250,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: posts
+      type: research
     values:
       layout: single
       author_profile: true
