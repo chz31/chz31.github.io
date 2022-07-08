@@ -85,10 +85,10 @@ author:
   bio              : "Postdoc at the Seattle Children's Research Institute, interested in human craniofacial biology and evolution, 3D imaging, and biological shape analysis"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=oBVNahIAAAAJ&hl=en&oi=ao"
   email            : "chi.zhang@seattlechildrens.org"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chi-Zhang-313"
   uri              :
   bitbucket        :
   codepen          :
