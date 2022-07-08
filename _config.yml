@@ -190,6 +190,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+    order:
+      - SlicerPhotoGram.md
+      - automated_landmarking.md
 
 
 # Defaults
