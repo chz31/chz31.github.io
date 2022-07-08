@@ -85,7 +85,7 @@ author:
   bio              : "Postdoc at the Seattle Children's, interested in human craniofacial biology and evolution, 3D imaging, and biological shape analysis"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=oBVNahIAAAAJ&hl=en&oi=ao"
   email            : "chi.zhang@seattlechildrens.org"
   researchgate     : "https://www.researchgate.net/profile/Chi-Zhang-313"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "chi_polydata"
   vine             :
   weibo            :
   xing             :
