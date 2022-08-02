@@ -14,6 +14,6 @@ I am a postdoc at Dr. Murat Maga's lab at the Center of Developmental Biology an
 
 ## Research interests:
 - Human and hominid craniofacial morphology, development, genetics, and evolution
-- Biological shape analysis, morphometrics
+- Biological shape analysis, morphometrics, comparative morphology
 - 3D imaging and model reconstruction
-- paleoanthropology, human evolution  
+- paleoanthropology, human and primate evolution  
