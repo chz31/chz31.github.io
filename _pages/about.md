@@ -12,8 +12,8 @@ I am a postdoc at Dr. Murat Maga's lab at the Center of Developmental Biology an
 
 [Download Full CV (last updata: Aug 02, 2022) here](https://github.com/chz31/chz31.github.io/blob/master/files/Chi%20Zhang%20CV.pdf)
 
-Research interests:
--Human and hominid craniofacial morphology, development, genetics, and evolution
--Biological shape analysis, morphometrics
--3D imaging and model reconstruction
--paleoanthropology, human evolution  
+## Research interests:
+- Human and hominid craniofacial morphology, development, genetics, and evolution
+- Biological shape analysis, morphometrics
+- 3D imaging and model reconstruction
+- paleoanthropology, human evolution  
